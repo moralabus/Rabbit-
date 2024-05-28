@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class grass24 : MonoBehaviour
+public class grass3 : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D other)
     {
