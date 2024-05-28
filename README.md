@@ -10,6 +10,9 @@ Rabbit — многоуровневый платформер. Цель игры 
 <img width="906" alt="Снимок экрана 2024-05-28 в 01 42 54" src="https://github.com/moralabus/Rabbit-/assets/100228186/4dcd5c1a-8a5b-4b20-828f-c578af9efe03">
 <img width="905" alt="Снимок экрана 2024-05-28 в 01 44 50" src="https://github.com/moralabus/Rabbit-/assets/100228186/4bd257cd-ba22-4cf5-bf16-1a375e939e28"><img width="906" alt="Снимок экрана 2024-05-28 в 01 44 22" src="https://github.com/moralabus/Rabbit-/assets/100228186/67c7cd9b-1290-4dd9-a76f-e9d4553f94c8">
 
+ **Демонстрация механики игры**
+ Вы можете посмотреть видео с демонстрацией механики игры, перейдя по ссылке: https://drive.google.com/file/d/1w9WZSroyoARofbz8VWxtDqnzMNHFiH7_/view?usp=share_link 
+
 ## Особенности 
 
 - **Разнообразные уровни**: Игра предлагает множество уровней с возрастающей сложностью, каждый из которых имеет свои уникальные препятствия и врагов.
